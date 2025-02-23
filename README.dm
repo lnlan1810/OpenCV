@@ -56,8 +56,9 @@ OpenCV/
 - Pillow
 - MediaPipe
 
+## Author
+Developed by [Your Name]
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-
 
